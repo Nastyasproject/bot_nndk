@@ -1,2 +1,2 @@
-# ranhahaha_bot
-Bot for IIM TIMP RANEPA
+# bot_nndk
+Проект от team1 для сдачи ТиМП
